@@ -1,0 +1,3 @@
+SQL TASK 2 - 
+ZEN CLASS DESIGN 
+LINK : https://dbdiagram.io/d/663072175b24a634d0217661 
